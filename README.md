@@ -24,7 +24,9 @@ The algorithm with the smallest tree would typically be minimax_without_alpha_be
 As depth increases, it becomes harder to beat the AI and response time of the game increases.
 ORDER of increasing tree size:
 1)Min max with pruning
+
 2) Expecti min max
+
 3) min max without pruning
 
 ## Response time for 10 games:
